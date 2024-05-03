@@ -169,7 +169,7 @@ header ul li a:hover::after {
   color: white;
   padding: 50px;
   text-align: center;
-  height: 20vh; /* Cambiado a auto para adaptarse al contenido */
+  height: 15vh; /* Cambiado a auto para adaptarse al contenido */
 }
 
 .company-info {
